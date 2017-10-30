@@ -10,6 +10,6 @@ php index.php
 ```
 Example
 ```
-$ php name-generator.php
+$ php index.php
 purpleshadow
 ```
