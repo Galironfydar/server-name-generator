@@ -1,3 +1,5 @@
+<?php
+
 $adjs = [
 	"aged", 
 	"ancient", 
