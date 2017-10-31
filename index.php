@@ -139,4 +139,4 @@ $rand_key2 = array_rand($nouns, 1);
 
 $name = $adjs[$rand_key1].$nouns[$rand_key2];
 
-echo "\033[32m $name \033[0m\n";
+echo "\033[31m $name \033[0m\n";
