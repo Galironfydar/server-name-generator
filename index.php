@@ -135,6 +135,6 @@ $nouns = [
 ];
 
 $rand_key1 = array_rand($adjs, 1);
-$rand_key2 = array_rand($adjs, 1);
+$rand_key2 = array_rand($nouns, 1);
 
 echo $adjs[$rand_key1].$nouns[$rand_key2];
